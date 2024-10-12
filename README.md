@@ -1,1 +1,1 @@
-All Junior 2 Question for the Waterloo's Canadian Computing Competition
+All Senior Questions for the Waterloo's Canadian Computing Competition
